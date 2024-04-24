@@ -1,11 +1,11 @@
-site_name: 'My personal OASIS'
+site_name: 'Thilina personal OASIS for ESIIL'
 site_description: 'Central resource for ESIIL postdoctoral researchers'
 site_author: Thilina Surasinghe
 site_url: https://cu-esiil.github.io/esillTraining
 
 # Repository
 repo_name: Postdoc_OASIS
-repo_url: https://github.com/tdlan80/esillTraining/edit/main/mkdocs.yml
+repo_url: https://github.com/tdlan80/esillTraining
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
